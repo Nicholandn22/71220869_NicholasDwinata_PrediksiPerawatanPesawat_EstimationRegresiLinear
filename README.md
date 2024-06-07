@@ -1,0 +1,1 @@
+# 71220869_NicholasDwinata_PrediksiPerawatanPesawat_EstimationRegresiLinear
